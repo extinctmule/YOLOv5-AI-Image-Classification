@@ -1,0 +1,7 @@
+# val: null
+train: /content/drive/MyDrive/yolov5x/yolov5/dataset_categories/
+val: /content/drive/MyDrive/yolov5x/yolov5/dataset_categories/
+test: /content/drive/MyDrive/yolov5x/yolov5/dataset_categories/
+
+nc: 15
+names: [ 'multi', 'glitter', 'french', 'gradation', 'parts', 'marble', 'dots', 'terazzo', 'resin', 'check', 'powder', 'onetone', 'cheek', 'syrup', 'character']
